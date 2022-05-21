@@ -12,4 +12,7 @@ $ pytest
 
 $ pip install -r ./requirements_dev.txt
 $ pytest
+
+# run with
+$ python src/migration/main.py
 ``` 
